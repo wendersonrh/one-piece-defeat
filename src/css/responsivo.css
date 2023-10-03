@@ -1,3 +1,11 @@
+@media (max-width: 1024px) {
+  .icons {
+    top: 32%;
+    left: 75.8%;
+  }
+}
+
+
 @media (max-width: 769px) {
   main::after {
     background: linear-gradient(0deg, #000 20%, rgba(0, 0, 0, 0) 65%) no-repeat;
